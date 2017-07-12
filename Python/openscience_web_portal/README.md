@@ -12,3 +12,4 @@ Technologies used:
 - Google AppEngine
 - Google Cloud Storage, Datastore
 
+This repository contains only modules that I worked on the most. It is not the full project. 
